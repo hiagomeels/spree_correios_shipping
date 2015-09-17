@@ -1,9 +1,8 @@
 SpreeCorreiosShipping
 =====================
-[![Code Climate](https://codeclimate.com/github/locomotivapro/spree_correios_shipping/badges/gpa.svg)](https://codeclimate.com/github/locomotivapro/spree_correios_shipping)
 
 This is a gem to allow use Correios service for shipping methods in spree
-Currently just tested and working with spree > 3.1
+Currently just tested and working with spree > 3.0.0
 
 There is a 1.2 spree implementation, just use 1-2-stable branch.
 
